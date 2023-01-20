@@ -1,0 +1,5 @@
+﻿pyqt5==5.15.7
+openpyxl==3.0.9
+pandas==1.5.3
+cx_oracle==8.3.0
+pyinstaller==5.5
