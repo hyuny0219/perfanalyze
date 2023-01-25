@@ -32,3 +32,7 @@ Oracle Performance Analyze (11g, 12c, 18c, 19c)
     5) Configure snapshot period
     6) Run with Analyze Button
     
+**4. Result**
+
+![image](https://user-images.githubusercontent.com/58321778/214521599-d30e5249-1aeb-4719-ba80-827d27b00914.png)
+![image](https://user-images.githubusercontent.com/58321778/214521688-cdbcae07-f662-4938-86ee-68152e2e3ee5.png)
